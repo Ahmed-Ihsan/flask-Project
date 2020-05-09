@@ -1,0 +1,28 @@
+.page{
+	width:90%;
+	margin-left: 5%;
+	margin-top:5%; 
+}
+
+.box{
+
+    background: rgba(0,0,0,.8) ;
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5); 
+    border-radius: 10px ;
+}
+
+.box_title{
+	padding: 30px;
+	margin-top: 4%;
+	background: rgba(0,0,.8,1) ;
+    box-sizing: border-box;
+}
+
+.img{
+	height: 300px;
+}
+
+.color{
+	color: #ffffff;
+}
